@@ -72,5 +72,12 @@ ollama run psychIT
 
 ## Models
 - QLoRA model : https://huggingface.co/radityap/QLoRA-PsychIT
-- Quantized model : 
+- Quantized model : https://huggingface.co/radityap/PsychIT-7B-GGUF
 - Text Classification model : https://huggingface.co/radityap/PsychIT-mental-detection
+
+## How We Train The Models
+https://colab.research.google.com/drive/1g8S3xOBGuzM5eL2l0cpVBSDTTI_I0b1R
+https://colab.research.google.com/drive/1Xe5UXD1FAiY11t6w78LOk8sAlJ7XwAQU#scrollTo=r9Y4oNyHF3Xf
+https://colab.research.google.com/drive/17l7GE4sfaIVF7PwHxnBwCov5k_EUN0CV#scrollTo=W5QeDqoEEG8Q
+https://colab.research.google.com/drive/1q43nobwY2zFSEkYGFsiLTSGySHpehzZ-
+https://drive.google.com/drive/u/0/folders/1XqC4SyGVkIVCjC4qWzOWAOZ9gFAziKlZ
