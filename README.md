@@ -76,8 +76,8 @@ ollama run psychIT
 - Text Classification model : https://huggingface.co/radityap/PsychIT-mental-detection
 
 ## How We Train The Models
-https://colab.research.google.com/drive/1g8S3xOBGuzM5eL2l0cpVBSDTTI_I0b1R
-https://colab.research.google.com/drive/1Xe5UXD1FAiY11t6w78LOk8sAlJ7XwAQU#scrollTo=r9Y4oNyHF3Xf
-https://colab.research.google.com/drive/17l7GE4sfaIVF7PwHxnBwCov5k_EUN0CV#scrollTo=W5QeDqoEEG8Q
-https://colab.research.google.com/drive/1q43nobwY2zFSEkYGFsiLTSGySHpehzZ-
-https://drive.google.com/drive/u/0/folders/1XqC4SyGVkIVCjC4qWzOWAOZ9gFAziKlZ
+https://colab.research.google.com/drive/1g8S3xOBGuzM5eL2l0cpVBSDTTI_I0b1R?usp=sharing
+https://colab.research.google.com/drive/1Xe5UXD1FAiY11t6w78LOk8sAlJ7XwAQU?usp=sharing
+https://colab.research.google.com/drive/17l7GE4sfaIVF7PwHxnBwCov5k_EUN0CV?usp=sharing
+https://colab.research.google.com/drive/1q43nobwY2zFSEkYGFsiLTSGySHpehzZ-?usp=sharing
+https://drive.google.com/drive/folders/1XqC4SyGVkIVCjC4qWzOWAOZ9gFAziKlZ?usp=sharing
