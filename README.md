@@ -62,7 +62,7 @@ pip install -r requirements.txt
 deactivate
 ```
 
-## Addition
+## Additions
 
 If you want to use ollama, you can download Quantized model below, copy and paste quantized model in the same directory as Modelfile, and run ollama using:
 ```bash
